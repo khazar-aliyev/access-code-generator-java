@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Lab04_Q2{
+public class Main{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String reverseString;
